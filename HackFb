@@ -2,7 +2,7 @@ clear
 
 #!usr/bin/python2.7
 # -*- coding: UTF-8 -*-
-#Created by Tegar ID
+#Created by Mr.C3ND8L
 
 # SILAHKAN COSTUMISASI SENDIRI YA BOSQ #
 
@@ -136,7 +136,7 @@ def runn_noobs():
          global password_list
 
          lop = GG+"^[[90;1m[RG4]Black_Coder^[[91;1m
-Creator by:^[[97m Tegar ID
+Creator by:^[[97m Mr.c38
 
 
          print lop
